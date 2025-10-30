@@ -20,13 +20,4 @@ if for some reason you NEED to get in touch with me, my discord is 'ook3d'.
         </td>
     </tr>
 </table>
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-              <img align="left" src="https://github-contributor-stats.vercel.app/api?username=ook3d&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-            </a>
-        </td>
-    </tr>
-</table>
 </div>
