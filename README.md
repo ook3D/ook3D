@@ -8,15 +8,16 @@ if for some reason you NEED to get in touch with me, my discord is 'ook3d'.
 # 📊 GitHub Stats
 
 <div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ook3d&theme=dark&show_icons=true&layout=compact" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ook3d&theme=dark&show_icons=true" />
-  </a>
-
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+              <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ook3d&show_icons=true&theme=dark" />
+            </a>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+              <img align="left" src="https://github-readme-stats.vercel.app/api?username=ook3d&show_icons=true&theme=dark#gh-dark-mode-only" />
+            </a>
+        </td>
+    </tr>
+</table>
 </div>
