@@ -1,7 +1,7 @@
 # About Me
-Im A 3D Environment Artist, Modder for GTA V / FiveM,
-If you have a question regarding GTA V Modding, i know the answer to it.
-if for some reason you NEED to get in touch with me, my discord is 'ook3d'.
+3D Environment Artist, GTA V Modder.
+Lead Technical Artist @ ProdigyRP.
+https://ook3d.com/
 
 ![](https://komarev.com/ghpvc/?username=ook3d)
 
